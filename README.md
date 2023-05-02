@@ -1,5 +1,3 @@
-# interpolated-idwt-background
-Implementation of interpolated inverse discrete wavelet transforms for spectral background corrections. This is a repository for the software used to create the results for the paper "Interpolated inverse discrete wavelet transforms in additive and non-additive spectral background corrections'' [doi.org/10.1364/OPTCON.488136](https://doi.org/10.1364/OPTCON.488136).
 # Interpolated inverse discrete wavelet transforms for spectral background corrections
 Implementation of interpolated inverse discrete wavelet transforms for spectral background corrections. This is a repository for the software used to create the results for the paper "Interpolated inverse discrete wavelet transforms in additive and non-additive spectral background corrections'' ([doi.org/10.1364/OPTCON.488136](https://doi.org/10.1364/OPTCON.488136)).
 
